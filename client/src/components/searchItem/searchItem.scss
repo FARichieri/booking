@@ -80,29 +80,29 @@
         border: none;
       }
 
-      .siDetailTexts {
-        text-align: right;
-        display: flex;
-        flex-direction: column;
-        gap: 5px;
+    }
+    .siDetailTexts {
+      text-align: right;
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
 
-        .siPrice {
-          font-size: 24px;
-        }
+      .siPrice {
+        font-size: 24px;
+      }
 
-        .siTaxiOp {
-          font-size: 12px;
-          color: gray;
-        }
+      .siTaxOp {
+        font-size: 12px;
+        color: gray;
+      }
 
-        .siCheckButton {
-          background-color: #0071c2;
-          color: white;
-          font-weight: bold;
-          padding: 10px 5px;
-          border: none;
-          border-radius: 5px;
-        }
+      .siCheckButton {
+        background-color: #0071c2;
+        color: white;
+        font-weight: bold;
+        padding: 10px 5px;
+        border: none;
+        border-radius: 5px;
       }
     }
   }
